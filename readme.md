@@ -3,7 +3,7 @@
 ### css3
 ### bootsrap as much as you can
 ### native javascript
-#### > async communication using xmlhttprequest
+> #### async communication using xmlhttprequest
 #### > event handling
 #### > dom manipulate
 #### > custom ui media api
