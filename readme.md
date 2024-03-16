@@ -4,13 +4,13 @@
 ### bootsrap as much as you can
 ### native javascript
 > #### async communication using xmlhttprequest
-#### > event handling
-#### > dom manipulate
-#### > custom ui media api
-#### > form validating
+> #### event handling
+> #### dom manipulate
+> #### custom ui media api
+> #### form validating
 ### native php
-#### > custom uploaded file handeler
-##### >> verify type , size validate
+> #### custom uploaded file handeler
+>> ##### verify type , size validate
 #### > custom session handler
 ##### >> prevent session fixation
 ##### >> prevent session hijacking 
