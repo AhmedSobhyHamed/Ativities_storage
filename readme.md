@@ -9,7 +9,7 @@
 > #### html media api
 > #### form validating
 ### native php
-> #### $${custom uploaded file handeler \color{green}<p align="left">Library</p>}$$
+> <p align="left"> #### $${custom uploaded file handeler \color{green}Library}$$ </p>
 >> ##### verify type , size validate
 > ####  custom session handler ## #238636 Library #000000
 >> ##### prevent session fixation
