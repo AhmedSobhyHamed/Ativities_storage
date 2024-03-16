@@ -1,4 +1,3 @@
-<style>span{color:green !important;}</style>
 # what this project has employed
 ### Html5
 ### css3
@@ -12,17 +11,17 @@
 ### native php
 > #### custom uploaded file handeler < Library >
 >> ##### verify type , size validate
-> ####  custom session handler ## #238636 Library #000000
+> ####  custom session handler < Library >
 >> ##### prevent session fixation
 >> ##### prevent session hijacking 
 >> ##### change session settings
 > #### use of cookies to store user email and password
-> #### create user reusable object  ## #238636 Library wirh CRUD model #000000
+> #### create user reusable object  < Library wirh CRUD model >
 >> ##### reusable interface oop model
 >> ##### create object for every table that inherit from interface
 >> ##### validate every type of data
 >> ##### store a password in encrypted form 
-> #### custom html file template ## #238636 Library #000000
+> #### custom html file template < Library >
 > ##### easy change content of html template with php 
 >> ##### custom detect what mark you want to replace
 > #### communicate with javascript using api 
