@@ -10,9 +10,9 @@
 > #### form validating
 ### native php
 > #### $${custom uploaded file handeler \color{green}Library}$$
-> <p align="right"><span style="color: green;">
+> <p align="right"><span style="color: green;">custom uploaded file handeler
   ```diff
-+ custom uploaded file handeler Library
++  Library
 ```
 </span></p>
 >> ##### verify type , size validate
