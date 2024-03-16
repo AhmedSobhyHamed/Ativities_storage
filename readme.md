@@ -1,3 +1,4 @@
+<style>span{color:green;}</style>
 # what this project has employed
 ### Html5
 ### css3
@@ -10,10 +11,7 @@
 > #### form validating
 ### native php
 > #### $${custom uploaded file handeler \color{green}Library}$$
-> <p align="right"><span style="color: green;">custom uploaded file handeler
-+  Library
-</span></p>
->> ##### verify type , size validate
+>> ##### verify type , <span>size validate</span>
 > ####  custom session handler ## #238636 Library #000000
 >> ##### prevent session fixation
 >> ##### prevent session hijacking 
