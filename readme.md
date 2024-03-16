@@ -10,7 +10,7 @@
 > #### form validating
 ### native php
 > #### $${custom uploaded file handeler \color{green}Library}$$
-> <p ><span>$${custom uploaded file handeler \color{green}Library}$$</span></p>
+> <p align="left"><span>$${custom uploaded file handeler \color{green}Library}$$</span></p>
 >> ##### verify type , size validate
 > ####  custom session handler ## #238636 Library #000000
 >> ##### prevent session fixation
