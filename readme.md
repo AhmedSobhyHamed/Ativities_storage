@@ -11,9 +11,7 @@
 ### native php
 > #### $${custom uploaded file handeler \color{green}Library}$$
 > <p align="right"><span style="color: green;">custom uploaded file handeler
-  ```c
 +  Library
-```
 </span></p>
 >> ##### verify type , size validate
 > ####  custom session handler ## #238636 Library #000000
